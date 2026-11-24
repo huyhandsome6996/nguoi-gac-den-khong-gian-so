@@ -1,0 +1,2 @@
+# Màu nước và mực
+PROPOSED: Fine ink contours, translucent watercolor, light paper grain. Palette: muted cobalt, teal, ochre, coral, ivory. One moment, one scene, portrait 4:5 proposed, no text, readable UI, code, URL, logos, watermarks, bubbles, panels, collage, duplicate characters, outfit drift, sexualization, harmful procedures or exposed private images.
