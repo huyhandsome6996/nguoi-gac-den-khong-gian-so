@@ -1,15 +1,15 @@
-# Asset manifest — 0/35
+# Asset manifest — 7/35 draft assets; 28 pending
 
 | Page | Asset | Path | State |
 |---|---|---|---|
 | — | cover | assets/cover.png | PENDING |
-| — | character-minh | assets/characters/minh.png | PENDING |
-| — | character-an | assets/characters/an.png | PENDING |
-| — | character-hoang | assets/characters/hoang.png | PENDING |
-| — | character-chi | assets/characters/chi.png | PENDING |
-| — | character-cyberfox | assets/characters/cyberfox.png | PENDING |
-| — | character-teacher | assets/characters/teacher.png | PENDING |
-| CH01-P01 | image-CH01-P01 | assets/pages/CH01-P01.png | PENDING |
+| — | character-minh | assets/characters/minh.svg | GENERATED_DRAFT |
+| — | character-an | assets/characters/an.svg | GENERATED_DRAFT |
+| — | character-hoang | assets/characters/hoang.svg | GENERATED_DRAFT |
+| — | character-chi | assets/characters/chi.svg | GENERATED_DRAFT |
+| — | character-cyberfox | assets/characters/cyberfox.svg | GENERATED_DRAFT |
+| — | character-teacher | assets/characters/teacher.svg | GENERATED_DRAFT |
+| CH01-P01 | image-CH01-P01 | assets/pages/CH01-P01.svg | GENERATED_DRAFT |
 | CH01-P02 | image-CH01-P02 | assets/pages/CH01-P02.png | PENDING |
 | CH01-P03 | image-CH01-P03 | assets/pages/CH01-P03.png | PENDING |
 | CH01-P04A | image-CH01-P04A | assets/pages/CH01-P04A.png | PENDING |
