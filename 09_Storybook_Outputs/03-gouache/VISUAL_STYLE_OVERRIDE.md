@@ -1,0 +1,2 @@
+# Gouache
+PROPOSED: Opaque matte gouache, soft hand-painted edges, warm layered color. Palette: navy, dusty blue, teal, ochre, cream. One moment, one scene, portrait 4:5 proposed, no text, readable UI, code, URL, logos, watermarks, bubbles, panels, collage, duplicate characters, outfit drift, sexualization, harmful procedures or exposed private images.
