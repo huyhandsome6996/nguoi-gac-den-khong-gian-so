@@ -1,0 +1,2 @@
+# Content audit
+Nguồn: https://github.com/truongnquynh29/tieuluan/tree/61d6d769c5f401682aad0eef4884131bd78c3de3. Bản chuyển thể, không nguyên văn. 4 chương, 24 nút và 4 kết thúc; CSS/DES 50/50, điểm lựa chọn và ngưỡng 70 giữ như nguồn. Chi có canon đề xuất. Các khẳng định luật, AI detector, kỷ luật, an toàn tuyệt đối và khả năng đạt mọi kết thúc cần giáo viên duyệt; chưa đối chiếu từng câu Markdown. Không tái tạo hướng dẫn gây hại. Base đích khác SHA nguồn.
