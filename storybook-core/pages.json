@@ -1,0 +1,358 @@
+{
+  "source": "https://github.com/truongnquynh29/tieuluan/tree/61d6d769c5f401682aad0eef4884131bd78c3de3",
+  "source_sha": "61d6d769c5f401682aad0eef4884131bd78c3de3",
+  "status": "draft adaptation; no verbatim source copied; educator review pending",
+  "initialScores": {
+    "css": 50,
+    "des": 50
+  },
+  "pages": [
+    {
+      "id": "CH01-P01",
+      "title": "Quán Star-Tea",
+      "narration": "Chiều thứ Bảy, Minh lo không tải nổi bài thuyết trình 400 MB vì hết dữ liệu 4G tốc độ cao. An khuyên kiên nhẫn với mạng của quán, nhưng Hoàng khoe vừa xem video 4K bằng một Wi-Fi mở có tín hiệu mạnh. Minh nhìn điện thoại đầy tò mò.",
+      "characters": [
+        "minh",
+        "an",
+        "hoang"
+      ],
+      "scene": "Quán trà sữa, laptop và hai ly nước; Minh nhìn điện thoại, Hoàng hào hứng, An bình tĩnh.",
+      "ui": null,
+      "asset": "image-CH01-P01"
+    },
+    {
+      "id": "CH01-P02",
+      "title": "Voucher đáng ngờ",
+      "narration": "Mạng lạ dẫn Minh tới trang hứa tặng voucher 500.000 đồng nếu đăng nhập Facebook. An nhận ra tên miền bất thường và thiếu HTTPS, còn Hoàng thúc giục vì sợ hết lượt. Minh phân vân giữa món quà hấp dẫn và dấu hiệu lừa đảo.",
+      "characters": [
+        "minh",
+        "an",
+        "hoang"
+      ],
+      "scene": "Cùng bàn quán, An chỉ vào điện thoại quay khuất màn hình.",
+      "ui": null,
+      "asset": "image-CH01-P02"
+    },
+    {
+      "id": "CH01-P03",
+      "title": "Quyết định về Wi-Fi",
+      "narration": "Minh chưa biết nên tiếp tục nhận voucher hay kiểm chứng mạng đang dùng. Lời cảnh báo của An khiến cậu cân nhắc nguy cơ lộ tài khoản.",
+      "characters": [
+        "minh",
+        "an",
+        "hoang"
+      ],
+      "scene": "Minh do dự trước điện thoại, An ra hiệu chờ.",
+      "ui": "A: Ngắt mạng lạ, hỏi nhân viên, bật 2FA (+15 CSS, +10 DES). B: Tin lời mời, chấp nhận rủi ro đăng nhập (-15 CSS, -5 DES).",
+      "asset": "image-CH01-P03"
+    },
+    {
+      "id": "CH01-P04A",
+      "title": "Kiểm chứng mạng",
+      "narration": "Minh ngắt kết nối, hỏi nhân viên và biết quán chỉ có mạng chính thức với mật khẩu trên hóa đơn. Nhóm bạn phát hiện điểm truy cập giả mạo; Minh cũng bật xác thực hai yếu tố để tăng bảo vệ tài khoản.",
+      "characters": [
+        "minh",
+        "an"
+      ],
+      "scene": "Quầy thu ngân, Minh hỏi nhân viên, An đứng cạnh.",
+      "ui": null,
+      "asset": "image-CH01-P04A"
+    },
+    {
+      "id": "CH01-P04B",
+      "title": "Tài khoản bị chiếm",
+      "narration": "Sau khi Minh tin trang giả, voucher được báo hết hạn. Khoảng 15 phút sau, mẹ gọi hỏi về yêu cầu chuyển hai triệu đồng mà Minh không hề gửi. An nhận ra tài khoản đã bị chiếm và Minh vội tìm cách khóa tài khoản.",
+      "characters": [
+        "minh",
+        "an"
+      ],
+      "scene": "Cùng quán, Minh lo lắng nghe điện thoại, An hỗ trợ.",
+      "ui": null,
+      "asset": "image-CH01-P04B"
+    },
+    {
+      "id": "CH01-P05",
+      "title": "Phản tư về lừa đảo",
+      "narration": "CyberFox giải thích nguy cơ điểm Wi-Fi giả mạo Evil Twin và phishing. Hãy thận trọng với mạng công cộng, kiểm tra tên miền và HTTPS, đồng thời bật 2FA để giảm rủi ro. Khi tài khoản bị chiếm, cần hành động kịp thời.",
+      "characters": [
+        "cyberfox"
+      ],
+      "scene": "Cáo ảo với khiên và biểu tượng điện thoại trừu tượng.",
+      "ui": "Phản tư: Nêu ba việc cấp bách khi tài khoản người thân bị chiếm.",
+      "asset": "image-CH01-P05"
+    },
+    {
+      "id": "CH02-P01",
+      "title": "Hạn chót cuộc thi",
+      "narration": "Lúc 21 giờ, nhóm Minh mới viết phần mở đầu bài luận 2.000 từ về AI giáo dục, dù đã khảo sát 100 học sinh. An muốn phân tích dữ liệu thật, còn Hoàng khoe công cụ AI bẻ khóa có thể tạo bài và ảnh rất nhanh.",
+      "characters": [
+        "minh",
+        "an",
+        "hoang"
+      ],
+      "scene": "Phòng máy buổi tối, Minh trước laptop, An đọc tài liệu, Hoàng hào hứng.",
+      "ui": null,
+      "asset": "image-CH02-P01"
+    },
+    {
+      "id": "CH02-P02",
+      "title": "Dữ liệu không đáng tin",
+      "narration": "Bài AI tạo ra có vẻ thuyết phục, nhưng An phát hiện nghiên cứu năm 2025 và tác giả được nêu không kiểm chứng được; hình ảnh còn có dấu hiệu thuộc tác phẩm của người khác. Hạn 23 giờ 59 đến gần, Minh phải cân nhắc ảo giác AI và bản quyền.",
+      "characters": [
+        "minh",
+        "an"
+      ],
+      "scene": "An so sánh tài liệu và màn hình quay khuất, Minh ngạc nhiên.",
+      "ui": null,
+      "asset": "image-CH02-P02"
+    },
+    {
+      "id": "CH02-P03",
+      "title": "Liêm chính học thuật",
+      "narration": "Đồng hồ đã gần hạn nộp. Minh có thể dùng AI như công cụ hỗ trợ và tự phân tích khảo sát, hoặc nộp sản phẩm chưa kiểm chứng để tiết kiệm thời gian.",
+      "characters": [
+        "minh",
+        "an"
+      ],
+      "scene": "Minh cân nhắc trước máy tính, An giữ tập khảo sát.",
+      "ui": "A: Dùng AI gợi ý, tự viết, dùng tài nguyên CC phù hợp và khai báo (+10 CSS, +15 DES). B: Nộp toàn bộ bài AI cùng trích dẫn và ảnh sai phạm (-10 CSS, -15 DES).",
+      "asset": "image-CH02-P03"
+    },
+    {
+      "id": "CH02-P04A",
+      "title": "Thành quả trung thực",
+      "narration": "Nhóm Minh tự phân tích số liệu khảo sát, dùng AI hỗ trợ cấu trúc và ghi rõ việc sử dụng công cụ. Bài dự thi được nộp lúc 23 giờ 45; thầy Tuấn đánh giá cao sự trung thực và nhóm nhận giải Nhất.",
+      "characters": [
+        "minh",
+        "an",
+        "teacher"
+      ],
+      "scene": "Sân khấu cuộc thi, Minh và An nhận tuyên dương từ giáo viên.",
+      "ui": null,
+      "asset": "image-CH02-P04A"
+    },
+    {
+      "id": "CH02-P04B",
+      "title": "Hệ quả gian lận",
+      "narration": "Máy Minh gặp mã độc đào tiền ảo liên quan phần mềm bẻ khóa. Ban giám khảo phát hiện trích dẫn giả và nghi vấn bài do AI tạo; bài thi bị loại vì sai phạm, Minh và Hoàng bị hạ một bậc hạnh kiểm trong tình huống truyện.",
+      "characters": [
+        "minh",
+        "hoang",
+        "teacher"
+      ],
+      "scene": "Phòng làm việc, giáo viên trao đổi nghiêm túc với Minh và Hoàng.",
+      "ui": null,
+      "asset": "image-CH02-P04B"
+    },
+    {
+      "id": "CH02-P05",
+      "title": "Phản tư về AI",
+      "narration": "CyberFox nhắc rằng AI hỗ trợ tư duy chứ không thay thế người học. Kiểm chứng dữ kiện, tự làm bài, công khai cách dùng AI và tuân thủ giấy phép Creative Commons cùng yêu cầu ghi công là những thói quen cần thiết.",
+      "characters": [
+        "cyberfox"
+      ],
+      "scene": "Cáo ảo cầm kính lúp bên sách, không chữ.",
+      "ui": "Phản tư: Nộp bài do AI viết toàn bộ có thể làm mất những kỹ năng nào?",
+      "asset": "image-CH02-P05"
+    },
+    {
+      "id": "CH03-P01",
+      "title": "Tin đồn trong hành lang",
+      "narration": "Giờ ra chơi thứ Hai, nhiều bạn nhìn điện thoại và bàn tán về nhật ký cùng hình ảnh riêng tư của Chi bị phát tán trong nhóm kín. Hoàng rủ Minh xem, nhưng An chỉ cho cậu thấy Chi đang buồn ở cuối hành lang.",
+      "characters": [
+        "minh",
+        "an",
+        "hoang",
+        "chi"
+      ],
+      "scene": "Hành lang sáng, Chi ngồi buồn, nhóm bạn nhìn về phía Chi, không hiển thị ảnh riêng tư.",
+      "ui": null,
+      "asset": "image-CH03-P01"
+    },
+    {
+      "id": "CH03-P02",
+      "title": "Áp lực đám đông",
+      "narration": "Hoàng gửi lời mời nhóm kín Telegram, tin rằng tài khoản ẩn danh sẽ không bị nhận ra và hứa cho Minh vai trò quản lý. An nhắc rằng hành vi chia sẻ và chế giễu có thể gây tổn thương và để lại dấu vết số.",
+      "characters": [
+        "minh",
+        "an",
+        "hoang"
+      ],
+      "scene": "Hoàng đưa điện thoại, An cảnh báo, màn hình không đọc được.",
+      "ui": null,
+      "asset": "image-CH03-P02"
+    },
+    {
+      "id": "CH03-P03",
+      "title": "Lựa chọn bảo vệ bạn",
+      "narration": "Minh đứng trước lựa chọn tham gia nhóm đang bôi nhọ Chi hoặc lên tiếng giúp bạn. Cậu phải cân nhắc sự tò mò, áp lực bạn bè và quyền riêng tư của người khác.",
+      "characters": [
+        "minh",
+        "an",
+        "hoang"
+      ],
+      "scene": "Minh dừng lại, suy nghĩ trước điện thoại.",
+      "ui": "A: Không tham gia, lưu bằng chứng phù hợp để báo giáo viên, an ủi Chi và hỗ trợ báo cáo gỡ nội dung (+10 CSS, +15 DES). B: Tham gia và phát tán lời mời nhóm (-10 CSS, -15 DES).",
+      "asset": "image-CH03-P03"
+    },
+    {
+      "id": "CH03-P04A",
+      "title": "Giúp đỡ Chi",
+      "narration": "Minh từ chối nhóm kín và báo bằng chứng cho giáo viên chủ nhiệm. Minh và An an ủi Chi; nhà trường phối hợp xử lý nhóm trong hai giờ theo tình tiết truyện. Hai bạn được tuyên dương vì bảo vệ bạn bè.",
+      "characters": [
+        "minh",
+        "an",
+        "chi"
+      ],
+      "scene": "Minh và An ngồi bên Chi, đưa khăn giấy và động viên.",
+      "ui": null,
+      "asset": "image-CH03-P04A"
+    },
+    {
+      "id": "CH03-P04B",
+      "title": "Dấu vết của việc chia sẻ",
+      "narration": "Những lượt chia sẻ tiếp tục lan rộng và Chi phải được chăm sóc y tế. Minh và Hoàng đối diện hội đồng kỷ luật sau khi hành vi bị xác minh; Minh bị đình chỉ một tuần trong câu chuyện và nhận ra hậu quả của dấu chân số.",
+      "characters": [
+        "minh",
+        "hoang",
+        "teacher"
+      ],
+      "scene": "Cuộc trao đổi riêng tư với giáo viên, Minh và Hoàng hối lỗi; không mô tả khủng hoảng trực diện.",
+      "ui": null,
+      "asset": "image-CH03-P04B"
+    },
+    {
+      "id": "CH03-P05",
+      "title": "Phản tư về quyền riêng tư",
+      "narration": "CyberFox giải thích rằng hoạt động trên mạng có thể để lại dấu chân kỹ thuật số. Hãy tôn trọng dữ liệu cá nhân, không tiếp tay bắt nạt, báo người lớn đáng tin khi cần và nghĩ kỹ trước khi bình luận hoặc chia sẻ.",
+      "characters": [
+        "cyberfox"
+      ],
+      "scene": "Cáo ảo nhìn dấu chân sáng trên nền cát số.",
+      "ui": "Phản tư: Nếu bị chụp lén và chế ảnh trên mạng, em sẽ ứng xử thế nào?",
+      "asset": "image-CH03-P05"
+    },
+    {
+      "id": "CH04-P01",
+      "title": "Ngày hội gặp sự cố",
+      "narration": "Ngày hội chuyển đổi số có hơn 1.500 người tham gia. Minh và An nhận thấy cổng bình chọn bị gián đoạn khi lưu lượng bất thường vượt 50.000 yêu cầu mỗi giây; thông điệp tống tiền xuất hiện và thời gian xử lý rất gấp.",
+      "characters": [
+        "minh",
+        "an"
+      ],
+      "scene": "Phòng điều khiển, màn hình trừu tượng báo gián đoạn, Minh và An lo lắng.",
+      "ui": null,
+      "asset": "image-CH04-P01"
+    },
+    {
+      "id": "CH04-P02",
+      "title": "Lời mời trả đũa",
+      "narration": "Hoàng mang đến một USB không đáng tin và đề nghị trả đũa kẻ tấn công. An phản đối vì nguy cơ mã độc và hành vi trái phép, đề xuất quy trình ứng phó có kiểm soát, bảo vệ hệ thống và báo thầy Tuấn.",
+      "characters": [
+        "minh",
+        "an",
+        "hoang"
+      ],
+      "scene": "Hoàng cầm USB đen không nhãn, An cảnh báo, Minh cân nhắc.",
+      "ui": null,
+      "asset": "image-CH04-P02"
+    },
+    {
+      "id": "CH04-P03",
+      "title": "Ứng phó có trách nhiệm",
+      "narration": "Khi thời gian đếm ngược sắp hết, Minh phải chọn bảo vệ hệ thống theo quy trình được phép hay mạo hiểm trả đũa bằng công cụ không rõ nguồn gốc.",
+      "characters": [
+        "minh",
+        "an",
+        "hoang"
+      ],
+      "scene": "Cùng phòng điều khiển, Minh nhìn An và USB, không hiển thị thao tác kỹ thuật.",
+      "ui": "A: Từ chối USB, báo giáo viên, áp dụng phương án phòng thủ và dự phòng được phép (+15 CSS, +10 DES). B: Chọn hành vi trả đũa trái phép bằng công cụ đáng ngờ (-20 CSS, -20 DES).",
+      "asset": "image-CH04-P03"
+    },
+    {
+      "id": "CH04-P04A",
+      "title": "Khôi phục ngày hội",
+      "narration": "Minh chọn phương án phòng thủ, hệ thống được phục hồi từ phương án dự phòng theo tình huống truyện. Cổng bình chọn hoạt động trở lại, hơn 1.500 học sinh reo vui; Minh và An được thầy cô vinh danh.",
+      "characters": [
+        "minh",
+        "an",
+        "teacher"
+      ],
+      "scene": "Sân khấu ngày hội, Minh và An nhận hoa từ giáo viên.",
+      "ui": null,
+      "asset": "image-CH04-P04A"
+    },
+    {
+      "id": "CH04-P04B",
+      "title": "Mã độc tống tiền",
+      "narration": "Công cụ Hoàng mang tới hóa ra là ransomware. Hệ thống trường bị tê liệt, dữ liệu học bạ và điểm số bị mã hóa; thầy Tuấn thông báo vụ việc phải được điều tra. Minh và Hoàng nhận ra hậu quả của lựa chọn mạo hiểm.",
+      "characters": [
+        "minh",
+        "hoang",
+        "teacher"
+      ],
+      "scene": "Phòng điều khiển, biểu tượng khóa trừu tượng trên màn hình, giáo viên hỗ trợ.",
+      "ui": null,
+      "asset": "image-CH04-P04B"
+    },
+    {
+      "id": "CH04-P05",
+      "title": "Tổng kết hành trình",
+      "narration": "CyberFox chúc mừng người đọc đã trải qua bốn chương. Hai chỉ số an toàn mạng CSS và đạo đức số DES quyết định kết thúc tương ứng; hãy nhìn lại lựa chọn để tiếp tục trưởng thành.",
+      "characters": [
+        "cyberfox"
+      ],
+      "scene": "Cáo ảo bên hai đồng hồ chỉ số trừu tượng, không số.",
+      "ui": "UI: Hiển thị CSS, DES và kết thúc phù hợp.",
+      "asset": "image-CH04-P05"
+    },
+    {
+      "id": "ENDING_GUARDIAN",
+      "title": "Hiệp sĩ an toàn số",
+      "narration": "Người đọc cân bằng kiến thức bảo mật và trách nhiệm với cộng đồng. Hãy tiếp tục giúp bạn bè học cách tự bảo vệ, ứng xử văn minh và giữ liêm chính học thuật.",
+      "characters": [
+        "minh",
+        "an"
+      ],
+      "scene": "Sân trường sáng, Minh và An tự tin, biểu tượng khiên đơn giản.",
+      "ui": "CSS ≥ 70; DES ≥ 70.",
+      "asset": "image-ENDING_GUARDIAN"
+    },
+    {
+      "id": "ENDING_RECKLESS_EXPLORER",
+      "title": "Nhà thám hiểm liều lĩnh",
+      "narration": "Người đọc có thiện chí với cộng đồng nhưng còn thiếu thận trọng về kỹ thuật. Hãy học thêm cách nhận biết lừa đảo, bảo vệ tài khoản và thiết bị để lòng tốt đi cùng an toàn.",
+      "characters": [
+        "minh"
+      ],
+      "scene": "Minh học với biểu tượng khóa và khiên, ánh sáng hy vọng.",
+      "ui": "CSS < 70; DES ≥ 70.",
+      "asset": "image-ENDING_RECKLESS_EXPLORER"
+    },
+    {
+      "id": "ENDING_PRAGMATIC_TECHIE",
+      "title": "Kỹ thuật gia ích kỷ",
+      "narration": "Người đọc biết bảo vệ thiết bị và tài khoản của mình nhưng chưa chú ý đủ tới người khác và tính trung thực. Kỹ năng công nghệ cần đi cùng sự cảm thông và trách nhiệm.",
+      "characters": [
+        "minh",
+        "an"
+      ],
+      "scene": "Minh lắng nghe An trong góc học tập.",
+      "ui": "CSS ≥ 70; DES < 70.",
+      "asset": "image-ENDING_PRAGMATIC_TECHIE"
+    },
+    {
+      "id": "ENDING_VULNERABLE",
+      "title": "Báo động đỏ không gian số",
+      "narration": "Các quyết định thiếu thận trọng dẫn đến rủi ro bảo mật, mã độc, vi phạm riêng tư và bản quyền. Đây là trải nghiệm mô phỏng: người đọc có thể thử lại, học từ sai lầm và chọn phương án an toàn hơn.",
+      "characters": [
+        "minh",
+        "an"
+      ],
+      "scene": "Minh xem lại bài học với An, không khí khích lệ.",
+      "ui": "CSS < 70; DES < 70.",
+      "asset": "image-ENDING_VULNERABLE"
+    }
+  ]
+}
