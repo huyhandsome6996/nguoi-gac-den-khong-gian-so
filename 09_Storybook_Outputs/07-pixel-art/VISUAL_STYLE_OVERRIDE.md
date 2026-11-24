@@ -1,0 +1,2 @@
+# Pixel art
+PROPOSED: 16-bit crisp pixel grid, clustered shading, no smoothing. Palette: fixed 16–32 colors including blue, teal, coral, yellow, cream. One moment, one scene, portrait 4:5 proposed, no text, readable UI, code, URL, logos, watermarks, bubbles, panels, collage, duplicate characters, outfit drift, sexualization, harmful procedures or exposed private images.
