@@ -1,0 +1,2 @@
+# Webtoon 2D
+PROPOSED: Modern Vietnamese school webtoon, crisp outlines, two-stage cel shading. Palette: navy, cobalt, teal, coral, yellow, cream. One moment, one scene, portrait 4:5 proposed, no text, readable UI, code, URL, logos, watermarks, bubbles, panels, collage, duplicate characters, outfit drift, sexualization, harmful procedures or exposed private images.

@@ -1,0 +1,39 @@
+# Asset manifest — 0/35
+
+| Page | Asset | Path | State |
+|---|---|---|---|
+| — | cover | assets/cover.png | PENDING |
+| — | character-minh | assets/characters/minh.png | PENDING |
+| — | character-an | assets/characters/an.png | PENDING |
+| — | character-hoang | assets/characters/hoang.png | PENDING |
+| — | character-chi | assets/characters/chi.png | PENDING |
+| — | character-cyberfox | assets/characters/cyberfox.png | PENDING |
+| — | character-teacher | assets/characters/teacher.png | PENDING |
+| CH01-P01 | image-CH01-P01 | assets/pages/CH01-P01.png | PENDING |
+| CH01-P02 | image-CH01-P02 | assets/pages/CH01-P02.png | PENDING |
+| CH01-P03 | image-CH01-P03 | assets/pages/CH01-P03.png | PENDING |
+| CH01-P04A | image-CH01-P04A | assets/pages/CH01-P04A.png | PENDING |
+| CH01-P04B | image-CH01-P04B | assets/pages/CH01-P04B.png | PENDING |
+| CH01-P05 | image-CH01-P05 | assets/pages/CH01-P05.png | PENDING |
+| CH02-P01 | image-CH02-P01 | assets/pages/CH02-P01.png | PENDING |
+| CH02-P02 | image-CH02-P02 | assets/pages/CH02-P02.png | PENDING |
+| CH02-P03 | image-CH02-P03 | assets/pages/CH02-P03.png | PENDING |
+| CH02-P04A | image-CH02-P04A | assets/pages/CH02-P04A.png | PENDING |
+| CH02-P04B | image-CH02-P04B | assets/pages/CH02-P04B.png | PENDING |
+| CH02-P05 | image-CH02-P05 | assets/pages/CH02-P05.png | PENDING |
+| CH03-P01 | image-CH03-P01 | assets/pages/CH03-P01.png | PENDING |
+| CH03-P02 | image-CH03-P02 | assets/pages/CH03-P02.png | PENDING |
+| CH03-P03 | image-CH03-P03 | assets/pages/CH03-P03.png | PENDING |
+| CH03-P04A | image-CH03-P04A | assets/pages/CH03-P04A.png | PENDING |
+| CH03-P04B | image-CH03-P04B | assets/pages/CH03-P04B.png | PENDING |
+| CH03-P05 | image-CH03-P05 | assets/pages/CH03-P05.png | PENDING |
+| CH04-P01 | image-CH04-P01 | assets/pages/CH04-P01.png | PENDING |
+| CH04-P02 | image-CH04-P02 | assets/pages/CH04-P02.png | PENDING |
+| CH04-P03 | image-CH04-P03 | assets/pages/CH04-P03.png | PENDING |
+| CH04-P04A | image-CH04-P04A | assets/pages/CH04-P04A.png | PENDING |
+| CH04-P04B | image-CH04-P04B | assets/pages/CH04-P04B.png | PENDING |
+| CH04-P05 | image-CH04-P05 | assets/pages/CH04-P05.png | PENDING |
+| ENDING_GUARDIAN | image-ENDING_GUARDIAN | assets/pages/ENDING_GUARDIAN.png | PENDING |
+| ENDING_RECKLESS_EXPLORER | image-ENDING_RECKLESS_EXPLORER | assets/pages/ENDING_RECKLESS_EXPLORER.png | PENDING |
+| ENDING_PRAGMATIC_TECHIE | image-ENDING_PRAGMATIC_TECHIE | assets/pages/ENDING_PRAGMATIC_TECHIE.png | PENDING |
+| ENDING_VULNERABLE | image-ENDING_VULNERABLE | assets/pages/ENDING_VULNERABLE.png | PENDING |
