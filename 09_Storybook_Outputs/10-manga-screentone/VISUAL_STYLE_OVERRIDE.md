@@ -1,0 +1,2 @@
+# Manga mực đen
+PROPOSED: Black ink, variable line weight, restrained hatching and halftone, standalone scene. Palette: black, white, grayscale, optional accent. One moment, one scene, portrait 4:5 proposed, no text, readable UI, code, URL, logos, watermarks, bubbles, panels, collage, duplicate characters, outfit drift, sexualization, harmful procedures or exposed private images.
