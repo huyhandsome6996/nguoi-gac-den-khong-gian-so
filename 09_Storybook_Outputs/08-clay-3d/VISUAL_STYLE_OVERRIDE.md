@@ -1,0 +1,2 @@
+# Clay 3D
+PROPOSED: Handcrafted matte clay figures, balanced proportions, dimensional sets, soft shadows. Palette: cobalt, teal, mustard, coral, navy, cream. One moment, one scene, portrait 4:5 proposed, no text, readable UI, code, URL, logos, watermarks, bubbles, panels, collage, duplicate characters, outfit drift, sexualization, harmful procedures or exposed private images.
